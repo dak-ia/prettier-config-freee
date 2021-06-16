@@ -1,0 +1,17 @@
+{
+  "name": "prettier-config-freee",
+  "version": "1.0.0",
+  "description": "Shared configuration for prettier in freee.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freee/prettier-config-freee.git"
+  },
+  "author": "freee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freee/prettier-config-freee/issues"
+  },
+  "homepage": "https://github.com/freee/prettier-config-freee#readme"
+}
